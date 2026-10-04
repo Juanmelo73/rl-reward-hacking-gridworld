@@ -1,0 +1,6 @@
+gymnasium
+numpy
+matplotlib
+imageio
+pillow
+ipywidgets
